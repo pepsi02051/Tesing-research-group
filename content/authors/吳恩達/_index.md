@@ -1,12 +1,13 @@
 ---
+title: Testing
+role: Professor of Artificial Intelligence
+avatar_filename: 4fab5230282f49399cf5b4d87bb908a.png
 organizations:
   - name: Stanford University
     url: ""
 superuser: false
 authors:
   - 吳恩達
-title: Testing
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
