@@ -1,45 +1,20 @@
 ---
 title: Testing
 role: Testing
-avatar_filename: 4fab5230282f49399cf5b4d87bb908a.png
-organizations:
-  - name: Stanford University
-    url: ""
-superuser: false
+avatar_filename: https://www.hku.hk/assets/img/hku-shield-logo.jpg
+organizations: []
+superuser: true
 authors:
   - 吳恩達
 bio: Tesing
 interests:
   - testing
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+social: []
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 user_groups:
   - Researchers
-  - Visitors
 last_name: Wu
 first_name: Alice
 ---
-
